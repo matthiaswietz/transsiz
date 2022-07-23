@@ -1,4 +1,4 @@
-## Variability of dimethyl sulphide (DMS), methanethiol and other trace gases in relation with microbial communities from the temperate Atlantic to the Arctic Ocean
+## Variability of dimethyl sulphide (DMS), methanethiol and other trace gases in context of microbial communities from the temperate Atlantic to the Arctic Ocean
 
 - Rscripts for bacterial community analysis in Gros et al (XXX). Samples collected along a transect from 55-80°N (TRANSSIZ expedition on RV Polarstern; PS92) were evaluated for microbial communities and trace gas concentrations. Microbes were sampled underway using "Autofim" automatic filtration; and amplicon-sequenced using 16S rRNA primers.
 - This repo describes bacterial community and correlation analyses - are there latitudinal patterns along the transect, and correlations with trace gases?  
