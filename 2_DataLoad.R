@@ -13,7 +13,8 @@
 #######################
 
 # Set working directory - adjust for your own system
-setwd("C:/Users/mwietz/ownCloud - mwietz@owncloud.mpi-bremen.de/AWI_MPI/collaborations/TRANSSIZ/Rstats")
+# Place all input files in this directory
+setwd("")
 
 # Load packages and colors
 library(dplyr)
