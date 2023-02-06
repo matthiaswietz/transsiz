@@ -5,7 +5,7 @@
 - This repo describes bacterial community and correlation analyses, via the following data:
   - [Rmarkdown for primer-clipping, DADA2 and tax assignment](./1_DADA.Rmd)
   - [Rscript for ASV and metadata processing, alpha-diversity calculations](./2_DataLoad.R)
-  - [Rscript for generation of manuscript figures](./3_Figures.R)
+  - [Rscript for generation of manuscript figures](./3_Results.R)
   - [Rscript for generation of supplementary figures](./4_Supplement.R)
   - Metadata and environmental parameters as .txt files
   
