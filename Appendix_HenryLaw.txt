@@ -1,0 +1,6 @@
+VOC	HenryLawCst	CalibrationFactor
+Acetonitrile	5.00E+01	4.61E+01
+Acetone	2.70E+01	2.80E+01
+Methanol	2.20E+02	2.29E+02
+Acetaldehyde	1.50E+01	1.87E+01
+Isoprene	1.70E-02	1.71E-02
